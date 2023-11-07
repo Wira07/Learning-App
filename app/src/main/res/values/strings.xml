@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learning-App</string>
+    <string name="barMenu">VICEN LEARNING APP</string>
+    <string name="dummy_value">Wira Sukma Saputra</string>
+    <string name="barMenu2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
