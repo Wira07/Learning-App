@@ -16,7 +16,7 @@
             android:name=".Slicing"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Signup"
             android:exported="true" />
         <activity
             android:name=".SplashActivity"
