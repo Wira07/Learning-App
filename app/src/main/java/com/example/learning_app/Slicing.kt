@@ -1,8 +1,7 @@
-package com.example.learning_app.assets
+package com.example.learning_app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.learning_app.R
 
 class Slicing : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

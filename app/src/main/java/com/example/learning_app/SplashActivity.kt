@@ -13,7 +13,7 @@ class SplashActivity : AppCompatActivity() {
         setContentView(R.layout.activity_splash)
 
         Handler().postDelayed({
-            val mainIntent = Intent(this, MainActivity::class.java)
+            val mainIntent = Intent(this, Slicing::class.java)
             startActivity(mainIntent)
             finish()
         }, SPLASH_DELAY)
