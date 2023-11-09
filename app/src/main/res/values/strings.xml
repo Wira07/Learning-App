@@ -8,5 +8,8 @@
     <string name="name">Name</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="Pelajari">Pelajari jadwal Anda</string>
     <string name="facebook">facebook</string>
+    <string name="data">Duis aute irure dolor in reprehenderit in voluptate velit
+        esse cillum dolore eu fugiat nulla pariatu</string>
 </resources>
