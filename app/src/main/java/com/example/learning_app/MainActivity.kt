@@ -13,6 +13,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.button2.setOnClickListener {
+            val intent = Intent(this, login::class.java)
+            intent.putExtra("kunci", "Nilai yang akan Anda kirim")
+            startActivity(intent)
+        }
 
     }
 }
