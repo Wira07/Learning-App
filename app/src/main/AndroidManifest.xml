@@ -13,16 +13,19 @@
         android:theme="@style/Theme.LearningApp"
         tools:targetApi="31">
         <activity
-            android:name=".login"
+            android:name=".AssetActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".assets.login"
             android:exported="false" />
         <activity
-            android:name=".Slicing"
+            android:name=".assets.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Signup"
+            android:name=".assets.Slicing"
+            android:exported="false" />
+        <activity
+            android:name=".assets.Signup"
             android:exported="true" />
         <activity
             android:name=".SplashActivity"

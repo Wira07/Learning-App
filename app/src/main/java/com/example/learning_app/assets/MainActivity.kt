@@ -1,4 +1,4 @@
-package com.example.learning_app
+package com.example.learning_app.assets
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

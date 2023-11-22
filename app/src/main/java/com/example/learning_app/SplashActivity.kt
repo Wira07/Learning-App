@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.example.learning_app.assets.Slicing
 
 class SplashActivity : AppCompatActivity() {
     private val SPLASH_DELAY = 5000L

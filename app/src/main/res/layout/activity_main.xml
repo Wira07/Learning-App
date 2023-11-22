@@ -6,7 +6,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/gray"
     android:id="@+id/labu"
-    tools:context=".MainActivity">
+    tools:context=".assets.MainActivity">
 
     <ImageView
         android:id="@+id/lala"

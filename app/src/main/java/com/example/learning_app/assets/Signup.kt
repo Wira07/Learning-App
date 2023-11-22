@@ -1,8 +1,9 @@
-package com.example.learning_app
+package com.example.learning_app.assets
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.learning_app.R
 import com.example.learning_app.databinding.ActivitySignUpBinding
 
 class Signup : AppCompatActivity() {
